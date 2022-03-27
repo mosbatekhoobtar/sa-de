@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x411e2ee96250b0148413313a91289750dfc5b01a",
+  "SCAN_LINK": "https://polygonscan.com/token/0x411e2ee96250b0148413313a91289750dfc5b01a",
+  "NETWORK": {
+    "NAME": "POLYGON",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "sa-de",
+  "SYMBOL": "3K",
+  "MAX_SUPPLY": 20019,
+  "WEI_COST": 16000000000000000,
+  "DISPLAY_COST": 0.016,
+  "GAS_LIMIT": 888000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sa-de",
+  "SHOW_BACKGROUND": true
+}
