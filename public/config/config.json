@@ -11,8 +11,8 @@
   "MAX_SUPPLY": 20019,
   "WEI_COST": 16000000000000000,
   "DISPLAY_COST": 0.016,
-  "GAS_LIMIT": 888000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/sa-de",
+  "GAS_LIMIT": 333000,
+  "MARKETPLACE": "Rarible",
+  "MARKETPLACE_LINK": "rarible.com/20019/",
   "SHOW_BACKGROUND": true
 }
