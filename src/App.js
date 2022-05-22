@@ -150,9 +150,9 @@ function App() {
   };
 
   const incrementmintAmount = () => {
-    let newmintAmount = mintAmount + 1;
-    if (newmintAmount > 99) {
-      newmintAmount = 99;
+    let newmintAmount = mintAmount + 100;
+    if (newmintAmount > 9999) {
+      newmintAmount = 9999;
     }
     setmintAmount(newmintAmount);
   };
