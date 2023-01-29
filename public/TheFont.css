@@ -1,0 +1,24 @@
+
+@font-face {
+	font-family: The;
+	font-style: normal;
+	font-weight: 700;
+	src: url('fonts/woff/The.woff') format('woff'),   
+	url('fonts/woff2/The.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: The;
+	font-style: normal;
+	font-weight: 400;
+	src: url('fonts/woff/The.woff') format('woff'),   
+	url('fonts/woff2/The.woff2') format('woff2');	
+}
+@font-face {
+	font-family: The;
+	font-style: normal;
+	font-weight: 800;
+	src: url('fonts/woff/The.woff') format('woff'),   
+	url('fonts/woff/The.woff') format('woff2');	
+}
+
