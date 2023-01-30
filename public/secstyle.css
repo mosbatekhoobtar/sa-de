@@ -10,7 +10,7 @@ section {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: #0067C7;
+  background: #420097;
   overflow: hidden;
   display: flex;
 }
@@ -19,25 +19,25 @@ section {
   position: relative;
   width: 50%;
   height: 100%;
-  background: #ffffff;
+  background: #4CC700;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .sec h2 {
-  color: #0067C7;
+  color: #420097;
   font-size: 20vw;
   font-weight: 800;
   line-height: 1em;
 }
 
 .sec2 {
-  background: rgb(0, 0, 0);
+  background: #420097;
 }
 
 .sec2 h2 {
-  color: #0067C7;
+  color: #4CC700;
   font-size: 30vw;
 }
 
