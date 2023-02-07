@@ -19,33 +19,38 @@ section {
   position: relative;
   width: 50%;
   height: 100%;
-  background: #4CC700;
+  background: #000;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .sec h2 {
-  color: #420097;
+  color: #fff;
   font-size: 22vw;
   font-weight: 800;
   line-height: 1em;
 }
 
 .sec2 {
-  background: #420097;
-}
+  position: relative;
+  width: 50%;
+  height: 100%;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;}
 
 .sec2 h2 {
-  color: #4CC700;
-  font-size: 30vw;
+  color: #fff;
+  font-size: 22vw;
 }
 
 #ampm {
   position: absolute;
   top: 40px;
   left: 40px;
-  color: #000;
+  color: #fff;
   font-size: 6vw;
   font-weight: 700;
 }

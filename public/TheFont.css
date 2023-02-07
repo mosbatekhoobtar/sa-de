@@ -9,10 +9,10 @@
 
 @font-face {
 	font-family: The;
-	font-style: normal;
+	font-style: Regular;
 	font-weight: 400;
-	src: url('fonts/woff/The.woff') format('woff'),   
-	url('fonts/woff2/The.woff2') format('woff2');	
+	src: url('fonts/woff/The-regular.woff') format('woff'),   
+	url('fonts/woff2/The-regular.woff2') format('woff2');	
 }
 @font-face {
 	font-family: The;
